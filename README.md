@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Jevil7452/Jevil7452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jevil.  
+I like making software, mostly for my personal use.  
+I make it public just in case it helps out someone else as well.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming languages I know (somewhat):
+- C#
+- Visual Basic
+- Python
+- HTML
+- CSS 
+ 
+(Honestly I just tend to look up something I don't know)  
+You can find out where to contact me on this site: https://jevil7452.neocities.org/contact
